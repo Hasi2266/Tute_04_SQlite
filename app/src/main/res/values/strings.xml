@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tute_4</string>
+    <string name="delete_btn">DELETE</string>
+    <string name="update_btn">UPDATE</string>
+    <string name="add_btn">ADD</string>
+    <string name="siginin_btn">SIGN IN</string>
+    <string name="username_txt">User Name</string>
+    <string name="name_value">Name</string>
+    <string name="password_value">Password</string>
+    <string name="password_txt">Password</string>
+    <string name="selectall_btn">SELECT ALL</string>
+</resources>
